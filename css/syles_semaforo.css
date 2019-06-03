@@ -5,7 +5,7 @@
     border-radius: 40px;
     width: 80px;
     margin: 0 auto;
-    background-color: rgba(255, 230, 0, 0.8)
+    background-color: rgba(230, 207, 4, 0.8)
 }
 .luz-semaforo
 {
@@ -23,4 +23,11 @@
 {
     text-align: center;
     margin-top: 30px;
+    
+}
+button
+{
+    border-radius: 15px;
+    background-color: coral;
+    padding: 10px;
 }
