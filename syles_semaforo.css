@@ -1,4 +1,5 @@
-.caja-semaforo {
+.caja-semaforo 
+{
     padding: 10px;
     border: 2px solid black;
     border-radius: 40px;
@@ -6,7 +7,8 @@
     margin: 0 auto;
     background-color: rgba(255, 230, 0, 0.8)
 }
-.luz-semaforo {
+.luz-semaforo
+{
     width: 50px;
     height: 50px;
     border-radius: 50%;
@@ -16,3 +18,9 @@
     margin: 0 auto;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+.boton
+{
+    text-align: center;
+    margin-top: 30px;
+}
